@@ -14,7 +14,7 @@ npm run dev
 The app will be available at:
 http://localhost:5173
 
-###Tech Stack
+## Tech Stack
 - React 19
 - Redux Toolkit
 - Tailwind CSS
